@@ -12,6 +12,8 @@ TVBS,http://38.64.72.148/hls/modn/list/4006/chunklist1.m3u8
 
 民视新闻,http://38.64.72.148/hls/modn/list/4012/chunklist1.m3u8
 
+华视新闻,http://38.64.72.148/hls/modn/list/4003/chunklist1.m3u8
+
 TVBS新闻,http://38.64.72.148/hls/modn/list/4006/chunklist1.m3u8
 
 大爱一台,https://pulltv1.wanfudaluye.com/live/tv1.m3u8
