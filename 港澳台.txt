@@ -8,8 +8,6 @@
 
 华视,http://38.64.72.148/hls/modn/list/4002/chunklist1.m3u8
 
-TVBS,http://38.64.72.148/hls/modn/list/4006/chunklist1.m3u8
-
 台视新闻,http://38.64.72.148/hls/modn/list/4013/chunklist1.m3u8
 
 民视新闻,http://38.64.72.148/hls/modn/list/4012/chunklist1.m3u8
